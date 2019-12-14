@@ -9,6 +9,7 @@ require("@rails/activestorage").start()
 require("channels")
 
 import 'bootstrap/dist/js/bootstrap';
+import '@fortawesome/fontawesome-free/js/all';
 import '../stylesheets/application.scss';
 
 // Uncomment to copy all static images under ../images to the output folder and reference
