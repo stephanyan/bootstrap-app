@@ -94,4 +94,4 @@ import '@fortawesome/fontawesome-free/js/all';
 import '../stylesheets/application.scss';
 ```
 
-And you are done! You may have to rerun rails server and/or bin/webpack-dev-server sometimes.
+And you are done! You may have to rerun `rails server` and/or `bin/webpack-dev-server` sometimes.
